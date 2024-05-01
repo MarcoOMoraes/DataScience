@@ -1,8 +1,7 @@
 DataScience
 ===========
-## This is a secundary heading
-### This is a tertiary heading
+## repository intended for studies related to data science
 
-* first item in list 
-* second item in list 
-* third item in list 
+* Publicly released projects to share knowledge and studies.
+* For more details contact marco.oliveira.moraes@gmail.com
+
