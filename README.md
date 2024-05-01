@@ -6,9 +6,4 @@ DataScience
 * Projects organized into folders.
 * For more details contact marco.oliveira.moraes@gmail.com
 
-  █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-  █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
-  █░░║║║╠─║─║─║║║║║╠─░░█
-  █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
-  █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
